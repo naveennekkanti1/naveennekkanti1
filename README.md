@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naveennekkanti1
-- 👀 I’m interested in python
+- 👀 I’m interested in python and data structures
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @durganaveennekkanti
