@@ -29,8 +29,5 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://uploads-ssl.webflow.com/5f5b9d883446e2b99d64d7c2/632891c4cdbba219c0641ed9_Favicon-P.svg" alt="pinecone" width="40" height="40"/>
-  </a>
 </p>
 
