@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveennekkanti1&label=Profile%20views&color=0e75b6&style=flat" alt="naveennekkanti1" /> </p>
 
-- 🔭 I’m currently working on **ChatBot for Medical and Mental Health**
+- 🔭 I’m currently working on **Hospital ChatBot for Medical and Mental Health**
 
 - 👨‍💻 All of my projects are available at [https://naveennekkanti.vercel.app/](https://naveennekkanti.vercel.app/)
 
