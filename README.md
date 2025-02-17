@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveennekkanti1&label=Profile%20views&color=0e75b6&style=flat" alt="naveennekkanti1" /> </p>
 
-- 🔭 I’m currently working on **Hospital ChatBot for Medical and Mental Health**
+- 🔭 I’m currently working on **RapiACT!- A one stop digital healthcare platform**
+
+- ⚠️ Demo URL-⚠[https://capstone-2025.vercel.app//](https://capstone-2025.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://naveennekkanti.vercel.app/](https://naveennekkanti.vercel.app/)
 
