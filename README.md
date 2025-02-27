@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RapiACT!- A one stop digital healthcare platform**
 
-- ⚠️ Demo URL-⚠[https://capstone-2025.vercel.app//](https://capstone-2025.vercel.app/)
+- ⚠️ Demo URL-⚠[RapiACT!](https://capstone-2025-0gv1.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://naveennekkanti.vercel.app/](https://naveennekkanti.vercel.app/)
 
