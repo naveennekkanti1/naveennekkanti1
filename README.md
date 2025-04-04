@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveennekkanti1&label=Profile%20views&color=0e75b6&style=flat" alt="naveennekkanti1" /> </p>
 
-- 🔭 I’m currently working on **RapiACT!- A one stop digital healthcare platform**
+- 🔭 I’m currently working on Machine Learning Project with FullStack **RapiACT!- A one stop digital healthcare platform**
 
 - ⚠️ Demo URL-⚠[RapiACT!](https://capstone-2025-0gv1.onrender.com/)
 
