@@ -7,7 +7,7 @@
 
 - ⚠️ Demo URL-⚠[RapiACT!](https://capstone-2025-37jt.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [https://naveennekkanti.vercel.app/](https://naveennekkanti.vercel.app/)
+- 👨‍💻 All of my projects are available at [PortFolio](https://naveennekkanti.vercel.app/)
 
 - 📫 How to reach me **naveennekkanti2@gmail.com**
 
