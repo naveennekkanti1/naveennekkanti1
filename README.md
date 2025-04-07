@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Machine Learning Project with FullStack **RapiACT!- A one stop digital healthcare platform**
 
-- ⚠️ Demo URL-⚠[RapiACT!](https://capstone-2025-0gv1.onrender.com/)
+- ⚠️ Demo URL-⚠[RapiACT!](https://capstone-2025-37jt.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://naveennekkanti.vercel.app/](https://naveennekkanti.vercel.app/)
 
